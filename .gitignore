@@ -1,32 +1,16 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/src
+/logs
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.force
+installer2/*.class
+installer2/*.jar
+solutions/documentation/html
+solutions/documentation/*.tmp
+solutions/**.zip
+**/packages/
+**/.vs/
+**/.idea/
